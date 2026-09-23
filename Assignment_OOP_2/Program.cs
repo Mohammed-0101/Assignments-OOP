@@ -45,8 +45,10 @@ namespace Assignment_OOP_2
             #endregion
 
             // Part 02 : Smart Delivery Management System
+            //2. Create Three Shipment Types
 
-            
+
+
         }
     }
 }

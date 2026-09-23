@@ -45,9 +45,12 @@
   <ItemGroup>
     <Compile Include="DeliveryAddress.cs" />
     <Compile Include="DeliveryCenter.cs" />
+    <Compile Include="ExpressShipment.cs" />
+    <Compile Include="InternationalShipment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Shipment.cs" />
+    <Compile Include="StandardShipment .cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
