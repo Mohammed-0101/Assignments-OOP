@@ -25,13 +25,11 @@ namespace Assignment_OOP_2
             //Question B
 
             /*
-             Classes are generally more suitable for complex, 
-            interconnected objects in large applications, while structs are better suited for small, 
-            independent values that do not require inheritance or shared identity.
+             Because The Classes support Inheritance , polymorphism and have a big size because it reference type
              */
             #endregion
-            
 
+           
         }
     }
 }
